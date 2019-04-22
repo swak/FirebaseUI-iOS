@@ -1,25 +1,25 @@
 PODS:
-  - Firebase/Auth (5.19.0):
+  - Firebase/Auth (5.20.2):
     - Firebase/CoreOnly
-    - FirebaseAuth (= 5.4.1)
-  - Firebase/CoreOnly (5.19.0):
-    - FirebaseCore (= 5.4.0)
-  - FirebaseAuth (5.4.1):
+    - FirebaseAuth (= 5.4.2)
+  - Firebase/CoreOnly (5.20.2):
+    - FirebaseCore (= 5.4.1)
+  - FirebaseAuth (5.4.2):
     - FirebaseAuthInterop (~> 1.0)
     - FirebaseCore (~> 5.2)
     - GoogleUtilities/Environment (~> 5.2)
     - GTMSessionFetcher/Core (~> 1.1)
   - FirebaseAuthInterop (1.0.0)
-  - FirebaseCore (5.4.0):
+  - FirebaseCore (5.4.1):
     - GoogleUtilities/Environment (~> 5.2)
     - GoogleUtilities/Logger (~> 5.2)
-  - FirebaseUI/Auth (6.1.1):
-    - Firebase/Auth (~> 5.0)
+  - FirebaseUI/Auth (6.2.1):
+    - Firebase/Auth (~> 5.4)
     - GoogleUtilities/UserDefaults
-  - GoogleUtilities/Environment (5.5.0)
-  - GoogleUtilities/Logger (5.5.0):
+  - GoogleUtilities/Environment (5.7.0)
+  - GoogleUtilities/Logger (5.7.0):
     - GoogleUtilities/Environment
-  - GoogleUtilities/UserDefaults (5.5.0):
+  - GoogleUtilities/UserDefaults (5.7.0):
     - GoogleUtilities/Logger
   - GTMSessionFetcher/Core (1.2.1)
   - OCMock (3.4.3)
@@ -43,12 +43,12 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Firebase: c60d49e9c2630875a96207d15e2affb8364996d1
-  FirebaseAuth: cbb892a66baed025efc179372598941252acf853
+  Firebase: 0c8cf33f266410c61ab3e2265cfa412200351d9c
+  FirebaseAuth: dd7bbf03a5aee0eafb3a1aee4d2812bd74bac890
   FirebaseAuthInterop: 0ffa57668be100582bb7643d4fcb7615496c41fc
-  FirebaseCore: 22a79a961c3951ef2f77b67bfbc99e454247b319
-  FirebaseUI: b83b147f45aa656a7086eaa0463ef3b866342cd7
-  GoogleUtilities: 6481e6318c5fcabaaa8513ef8120f329055d7c10
+  FirebaseCore: f1a9a8be1aee4bf71a2fc0f4096df6788bdfda61
+  FirebaseUI: a2edbe63a90dff4a9ac715f4dd2869411528eedc
+  GoogleUtilities: 273e67030e0de313e7304f6dcfa96fc5214f6c23
   GTMSessionFetcher: 32aeca0aa144acea523e1c8e053089dec2cb98ca
   OCMock: 43565190abc78977ad44a61c0d20d7f0784d35ab
 

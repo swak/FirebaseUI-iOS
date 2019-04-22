@@ -1,19 +1,20 @@
 PODS:
-  - Firebase/Auth (5.18.0):
+  - Firebase/Auth (5.20.2):
     - Firebase/CoreOnly
-    - FirebaseAuth (= 5.4.0)
-  - Firebase/CoreOnly (5.18.0):
-    - FirebaseCore (= 5.3.1)
-  - FirebaseAuth (5.4.0):
+    - FirebaseAuth (= 5.4.2)
+  - Firebase/CoreOnly (5.20.2):
+    - FirebaseCore (= 5.4.1)
+  - FirebaseAuth (5.4.2):
     - FirebaseAuthInterop (~> 1.0)
     - FirebaseCore (~> 5.2)
     - GoogleUtilities/Environment (~> 5.2)
     - GTMSessionFetcher/Core (~> 1.1)
   - FirebaseAuthInterop (1.0.0)
-  - FirebaseCore (5.3.1):
+  - FirebaseCore (5.4.1):
+    - GoogleUtilities/Environment (~> 5.2)
     - GoogleUtilities/Logger (~> 5.2)
-  - GoogleUtilities/Environment (5.4.0)
-  - GoogleUtilities/Logger (5.4.0):
+  - GoogleUtilities/Environment (5.7.0)
+  - GoogleUtilities/Logger (5.7.0):
     - GoogleUtilities/Environment
   - GTMSessionFetcher/Core (1.2.1)
 
@@ -30,11 +31,11 @@ SPEC REPOS:
     - GTMSessionFetcher
 
 SPEC CHECKSUMS:
-  Firebase: 02f3281965c075426141a0ce1277e9de6649cab9
-  FirebaseAuth: d85d052354447f30b4b2a805ab91b511458b56a6
+  Firebase: 0c8cf33f266410c61ab3e2265cfa412200351d9c
+  FirebaseAuth: dd7bbf03a5aee0eafb3a1aee4d2812bd74bac890
   FirebaseAuthInterop: 0ffa57668be100582bb7643d4fcb7615496c41fc
-  FirebaseCore: 52f851b30e11360f1e67cf04b1edfebf0a47a2d3
-  GoogleUtilities: fa768ad04b264be250ee9edf9f378ad006f7a560
+  FirebaseCore: f1a9a8be1aee4bf71a2fc0f4096df6788bdfda61
+  GoogleUtilities: 273e67030e0de313e7304f6dcfa96fc5214f6c23
   GTMSessionFetcher: 32aeca0aa144acea523e1c8e053089dec2cb98ca
 
 PODFILE CHECKSUM: 2d3c1c16ff6e11fe0f5ccfa22e77adfd5fb7ae79
